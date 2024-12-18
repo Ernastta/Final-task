@@ -2,17 +2,13 @@
 import csv
 
 class CSVExporter:
-    """
-    Класс для экспорта результатов анализа в CSV файл.
-    """
+   
 
     def __init__(self):
         pass
 
     def export(self, data: list[dict], output_path: str):
-        """
-        Сохраняет список словарей в CSV файл.
-        """
+        
         if not data:
             print("Warning: No data to export to CSV.")
             return
