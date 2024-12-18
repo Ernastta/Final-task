@@ -53,9 +53,9 @@ pip install -r requirements.txt
 
 ## Скриншоты
 
-![Пример CSV файла с результатами анализа](Final-tasks/Screenshots/screenshot__results.PNG)
-![Пример CSV файла с таймлайном](Final-tasks/Screenshots/screenshot_timeline_example.PNG)
-![Пример графика](Final-tasks/Screenshots/screenshot_timeline.png)
+![Пример CSV файла с результатами анализа](Final-task/Screenshots/screenshot__results.PNG)
+![Пример CSV файла с таймлайном](Final-task/Screenshots/screenshot_timeline_example.PNG)
+![Пример графика](Final-task/Screenshots/screenshot_timeline.png)
 
 
 
