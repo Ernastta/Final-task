@@ -52,10 +52,10 @@ pip install -r requirements.txt
 Этот пример проанализирует telegram_export.html, сохранит результаты в analysis_results.csv, создаст таймлайн в timeline.csv и сгенерирует график в timeline.png.
 
 ## Скриншоты
-![screenshot__results]
-![screenshot_timeline_example]
-![screenshot_timeline]
 
+![Результат анализа](screenshot__results.png)
+![Таймлайн](screenshot_timeline_example.png)
+![Визуализация результата](screenshot_timeline.png)
 
 
 
