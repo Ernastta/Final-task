@@ -53,9 +53,10 @@ pip install -r requirements.txt
 
 ## Скриншоты
 
-![Результат анализа](screenshot__results.png)
-![Таймлайн](screenshot_timeline_example.png)
-![Визуализация результата](screenshot_timeline.png)
+![screenshot__results](https://github.com/user-attachments/assets/40ea4af8-c255-499d-9002-1dd208a72005)
+![screenshot_timeline_example](https://github.com/user-attachments/assets/1a3c56ac-aa59-47d0-a8a7-f04468f7035f)
+![screenshot_timeline](https://github.com/user-attachments/assets/41225284-00b1-4ede-b06a-91f95f49372b)
+
 
 
 
