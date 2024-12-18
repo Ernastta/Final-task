@@ -53,9 +53,9 @@ pip install -r requirements.txt
 
 ## Скриншоты
 
-!(screenshot__results.PNG)
-!(screenshot_timeline_example.PNG)
-!(screenshot_timeline.png)
+!(Screenshots/screenshot__results.PNG)
+!(Screenshots/screenshot_timeline_example.PNG)
+!(Screenshots/screenshot_timeline.png)
 
 
 
