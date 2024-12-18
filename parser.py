@@ -6,16 +6,12 @@ import re
 
 
 class TelegramParser:
-    """
-    Класс для парсинга HTML файлов Telegram экспорта.
-    """
+    
     def __init__(self):
         pass
 
     def _parse_html_file(self, file_path: str) -> list[dict]:
-        """
-        Парсит один HTML файл и возвращает список сообщений.
-        """
+       
         messages = []
         try:
             with open(file_path, "r", encoding="utf-8") as file:
@@ -59,9 +55,7 @@ class TelegramParser:
         return messages
 
     def parse(self, input_path: str) -> list[dict]:
-        """
-        Парсит HTML файл или папку с HTML файлами.
-        """
+      
         all_messages = []
 
         if os.path.isdir(input_path):
